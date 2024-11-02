@@ -13,10 +13,10 @@ Body (raw JSON):
 json 
 Copy code 
 { 
-"name": "Admin", 
-"email": "admin@example.com", 
-"password": "password123" 
-} 
+"name": "Alfha Risqi Wicaksono", 
+"email": "alfha@mail.com", 
+"password": "alfhatampan123" 
+}
 ```
 
 ![Screenshot 2024-11-02 144439](https://github.com/user-attachments/assets/0ad4e9c1-1a9e-4e12-8f04-f55969639b09)
