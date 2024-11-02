@@ -1,5 +1,5 @@
-**NAMA    : Alfha Risqi Wicaksono**                                             
-**NIM     : 362358302145**                                                      
+**NAMA    : Gilang Bagus Tri Pambudi**                                             
+**NIM     : 362358302148**                                                      
 **KELAS   : 2A TRPL**
                                                                                     
 **PRAKTIKUM**
@@ -13,13 +13,14 @@ Body (raw JSON):
 json 
 Copy code 
 { 
-"name": "Alfha Risqi Wicaksono", 
-"email": "alfha@mail.com", 
-"password": "alfhatampan123" 
+"name": "Gilang Bagus Tri Pambudi", 
+"email": "admin@example.com", 
+"password": "gilangtp123" 
 }
 ```
 
-![Screenshot 2024-11-02 144439](https://github.com/user-attachments/assets/0ad4e9c1-1a9e-4e12-8f04-f55969639b09)
+![Screenshot 1](https://github.com/user-attachments/assets/52876962-5584-4044-829c-6b6c87e829f3)
+
 
 2. Login User 
 Method: POST 
@@ -30,12 +31,13 @@ Body (raw JSON):
 json 
 Copy code 
 { 
-"name": "Alfha Risqi Wicaksono", 
-"password": "alfhatampan123" 
+"name": "Gilang Bagus Tri Pambudi", 
+"password": "gilangtp123" 
 }
  ```
 
-![Screenshot 2024-11-02 144611](https://github.com/user-attachments/assets/89292a3c-7aa3-41b3-984f-7742316b7ac8)
+![Screenshot 2](https://github.com/user-attachments/assets/1d200de7-20de-4cb9-b4c2-3988536e73ed)
+
 
 3. Menyimpan Data Mahasiswa (POST) 
 URL: /api/mahasiswas 
@@ -53,13 +55,14 @@ Body (raw JSON):
 ```
 Copy code 
 { 
-"nama": "Budi Santoso", 
-"nim": "12345678", 
+"nama": "Gilang Bagus Tri Pambudi", 
+"nim": "362358302148", 
 "jurusan": "Teknik Informatika" 
 }
 ```
 
-![Screenshot 2024-11-02 145134](https://github.com/user-attachments/assets/a40107a4-d3ce-478d-9456-2c2136731ec6)
+![Screenshot 3](https://github.com/user-attachments/assets/ea9f63e1-e01b-4830-b838-3c953fd989f9)
+
 
 4. Mengambil Semua Data Mahasiswa (GET) 
 URL: /api/mahasiswas 
@@ -72,7 +75,8 @@ Copy code
 Authorization: Bearer <token>
 ```
 
-![Screenshot 2024-11-02 145157](https://github.com/user-attachments/assets/b6d5ddc2-4d5b-4a32-aec2-70e894bc1a0e)
+![Screenshot 4](https://github.com/user-attachments/assets/aace3e0c-0aac-4901-b41b-e133b4438e60)
+
 
 Menghapus Data Mahasiswa (Hanya Admin - DELETE) 
 URL: /api/mahasiswas/{id} 
@@ -85,4 +89,5 @@ Copy code
 Authorization: Bearer <token>
 ```
 
-![Screenshot 2024-11-02 145242](https://github.com/user-attachments/assets/6a0f3769-7cce-47a7-bbdc-336be8f2dfb5)
+![Screenshot 5](https://github.com/user-attachments/assets/85b1afb2-989f-4581-acf9-08bb6008cc6d)
+
