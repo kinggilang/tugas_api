@@ -9,12 +9,14 @@ Method: POST
 URL: /api/register 
 Body (raw JSON):
 
-```Copy code 
+```
+Copy code 
 { 
 "nama": "Budi Santoso", 
 "nim": "12345678", 
 "jurusan": "Teknik Informatika" 
-}```
+}
+```
 
 ![Screenshot 2024-11-02 144439](https://github.com/user-attachments/assets/0ad4e9c1-1a9e-4e12-8f04-f55969639b09)
 
