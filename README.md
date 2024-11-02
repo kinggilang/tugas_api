@@ -30,9 +30,9 @@ Body (raw JSON):
 json 
 Copy code 
 { 
-"email": "admin@example.com", 
-"password": "password123" 
-} 
+"name": "Alfha Risqi Wicaksono", 
+"password": "alfhatampan123" 
+}
  ```
 
 ![Screenshot 2024-11-02 144611](https://github.com/user-attachments/assets/89292a3c-7aa3-41b3-984f-7742316b7ac8)
