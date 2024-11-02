@@ -78,7 +78,7 @@ Authorization: Bearer <token>
 ![Screenshot 4](https://github.com/user-attachments/assets/aace3e0c-0aac-4901-b41b-e133b4438e60)
 
 
-Menghapus Data Mahasiswa (Hanya Admin - DELETE) 
+5. Menghapus Data Mahasiswa (Hanya Admin - DELETE) 
 URL: /api/mahasiswas/{id} 
 Method: DELETE 
 Header:
